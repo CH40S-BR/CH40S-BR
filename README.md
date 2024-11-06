@@ -1,4 +1,4 @@
-![Olá, sou o CH40S 😈](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![Olá, sou o CH40S 😈](https://i.pinimg.com/originals/01/78/71/0178717b986c40c909e35213e4f25ad0.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=CH40S-BR&label=Profile%20views&color=0e75b6&style=flat)
 
