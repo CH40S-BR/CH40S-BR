@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/CH40S-BR" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 18px"></a> <a href="https://www.instagram.com/anark.code" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 18px"></a></p>
 
- **<h3 align="left">👾 Sou apenas um estudante de Cybersecurity(Red Team). Criei este GitHub para publicar minha evoluções e projetos que eu ache interessante deixar público. Além daqui tenho um blog que publico alguns artigos em meu tempo livre, venha conhecer!😁</h3>**
+ **<h3 align="left">👾 Sou apenas um estudante de Cybersecurity(Red Team). Criei este GitHub para publicar minha evolução e projetos que seja interessante deixar público. Tenho um blog que publico alguns artigos em meu tempo livre, venha conhecer!😁</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
