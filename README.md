@@ -18,7 +18,7 @@
   </p>  
   <p>  
   <h3><strong> 📖 Atualmente estudando </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,react,typescript,mysql" width="15%">   
+  <img src="https://skillicons.dev/icons?i=java,react,typescript,mysql,c++" width="15%">   
   </p> 
  </div> 
  
